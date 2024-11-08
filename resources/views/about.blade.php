@@ -14,9 +14,9 @@
                     <img src="{{ asset('SMK Taruna Bhakti.png')}}" alt="" class="card-img-top">
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">hahaha{{ $i }}</h5>
-                    <p class="card-text">hahaha</p>
-                    <a href="" class="btn btn-primary">hahahaha</a>
+                    <h5 class="card-title">faiz{{ $i }}</h5>
+                    <p class="card-text">daktw</p>
+                    <a href="" class="btn btn-primary">daktw</a>
                 </div>
             </div>
             @endfor
